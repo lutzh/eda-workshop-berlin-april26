@@ -13,5 +13,5 @@
 
 ## Orchestration
 
-- [Wer Microservices richtig macht, braucht keine Workflow Engine und kein BPMN](https://www.codecentric.de/wissens-hub/blog/wer-microservices-richtig-macht-braucht-keine-workflow-engine-und-kein-bpmn) - Codecentric Blog!
+- [Wer Microservices richtig macht, braucht keine Workflow Engine und kein BPMN](https://www.codecentric.de/wissens-hub/blog/wer-microservices-richtig-macht-braucht-keine-workflow-engine-und-kein-bpmn) - Codecentric Blog
 
