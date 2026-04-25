@@ -26,3 +26,4 @@
 
 - [Sagas als "Sequence of local transactions"](https://microservices.io/patterns/data/saga.html)
 
+- [Lutz' Blog](https://www.reactivesystems.eu/blog/)
